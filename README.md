@@ -1,3 +1,2 @@
 # barakat-travel
-
-Premium Travel Agency Website. Fixed version: all HTML files are self-contained, no assets folder required.
+Final premium version: original logo, RU/KZ/EN pages, fixed design.
