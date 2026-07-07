@@ -1,2 +1,2 @@
-# Barakat Travel V4 Desktop Luxury
-Fixed: correct round logo, luxury desktop version, real Thailand card image, dynamic WhatsApp request for manager, child age fields only when children selected.
+# Barakat Travel V5 Premium Platform
+Дата туда/обратно, бюджет свободным текстом, без количества дней, кнопка Найти тур после всех полей, динамическое SMS WhatsApp для менеджера.
